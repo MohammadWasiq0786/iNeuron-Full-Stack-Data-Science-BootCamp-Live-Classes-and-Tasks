@@ -2,11 +2,11 @@
 
 Here I have uploaded the Live Classes Codes the Tasks
 
-* [**Python**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/1.%20Python%201%20-%2016)
-* **OOPs**
-* **MySQL**
-* **MongoDB**
-* **Pandas**
-* **NumPy**
-* **Data Visualization**
-* **API**
+1. [**Python**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/1.%20Python%201%20-%2016)
+2. [**OOPs**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/2.%20OOPs%20Class%2016-18)
+3. [**MySQL**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/3.%20MySQL%20Class%2019-20)
+4. [**MongoDB**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/4.%20MongoDB%20Class%2021-22)
+5. [**Pandas**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/5.%20Pandas%20Class%2023-25)
+6. [**NumPy**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/6.%20NumPy%20Class%2026-27)
+7. [**Data Visualization**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/7.%20Data%20Visualization%20Class%2028-29)
+8. [**API**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/8.%20API%20Class%20-%2030-31)
