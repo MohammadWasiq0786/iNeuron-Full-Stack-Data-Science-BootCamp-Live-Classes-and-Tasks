@@ -10,6 +10,6 @@ Here I have uploaded the Live Classes Codes the Tasks
 6. [**NumPy**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/6.%20NumPy%20Class%2026-27)
 7. [**Data Visualization**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/7.%20Data%20Visualization%20Class%2028-29)
 8. [**API**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/8.%20API%20Class%20-%2030-31)
-9. [**Web Scrapping**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/9.%20Web%20Scrapping%20Class%20-%2032)
+9. [**Web Scrapping**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/9.%20Web%20Scrapping%20Class%20-%2032%20-%2033)
 
 * [**Datasets**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets)
