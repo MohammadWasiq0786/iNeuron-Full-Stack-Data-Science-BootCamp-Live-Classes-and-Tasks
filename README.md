@@ -12,6 +12,6 @@ Here I have uploaded the Live Classes Codes the Tasks
 8. [**API**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/8.%20API%20Class%20-%2030-31)
 9. [**Web Scrapping**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/9.%20Web%20Scrapping%20Class%2032-33)
 10. [**Statistics**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/10.%20Statistics%20Class%2034-39)
-11. [**Exploratory Data Analysis and Feature Engineering**]()
+11. [**Exploratory Data Analysis and Feature Engineering **](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/11.%20EDA%20%26%20FE%20%20Class%2040%20-%2041)
 * [**Datasets1**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets)
 * [**Datasets2**]()
