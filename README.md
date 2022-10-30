@@ -15,5 +15,6 @@ Here I have uploaded the Live Classes Codes the Tasks
 11. [**Exploratory Data Analysis and Feature Engineering-I**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/11.%20EDA%20%26%20FE%20%20Class%2040%20-%2041)
 12. [**Hypothesis Testing Using Python**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/12.%20Hypothesis%20Class%2042)
 13. [**Exploratory Data Analysis and Feature Engineering-II**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/12.%20Hypothesis%20Class%2042)
+14. [**Machine Learning**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning)
 * [**Datasets1**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets1)
 * [**Datasets2**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets2)
