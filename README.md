@@ -16,5 +16,15 @@ Here I have uploaded the Live Classes Codes the Tasks
 12. [**Hypothesis Testing Using Python**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/12.%20Hypothesis%20Class%2042)
 13. [**Exploratory Data Analysis and Feature Engineering-II**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/12.%20Hypothesis%20Class%2042)
 14. [**Machine Learning**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning)
+  * [**1. Linear Regression**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/1.%20Linear%20Regression)
+  * [**2. Logistic Regression**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/2.%20Logistic%20Regression)
+  * [**3. Support Vector Machine (Classification)**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/3.%20Support%20Vector%20Machine%20(%20Classification%20))
+  * [**4. Support Vector Machine (Regressor)**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/4.%20Support%20Vector%20Machine%20(%20Regressor%20))
+  * [**5. Decision Tree Classifier**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/5.%20Decision%20Tree%20Classifier)
+  * [**6. Decision Tree Regressor**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/6.%20Decision%20Tree%20Regressor)
+  * [**7. Random Forest**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/7.%20Random%20Forest)
+  
+<br><br>
+
 * [**Datasets1**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets1)
 * [**Datasets2**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets2)
