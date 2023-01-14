@@ -24,6 +24,7 @@ Here I have uploaded the Live Classes Codes the Tasks
   * [**6. Decision Tree Regressor**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/6.%20Decision%20Tree%20Regressor)
   * [**7. Random Forest**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/7.%20Random%20Forest)
   
+15. [**Time Series**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/15.%20Time%20Series)  
 <br><br>
 
 * [**Datasets1**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/Datasets1)
