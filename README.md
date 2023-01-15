@@ -28,6 +28,7 @@ Here I have uploaded the Live Classes Codes the Tasks
   * [**6. Decision Tree Regressor**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/6.%20Decision%20Tree%20Regressor)
   * [**7. Random Forest**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/7.%20Random%20Forest)
   * [**8. Adaboost**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/8.%20Adaboost)
+  * [**8.1 Gradience & Xgboosst**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/8.1%20Gradience%20%26%20Xgboosst)
   * [**9. Clustering**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/9.%20Clustering)
   * [**10. Naive Bayes**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/10.%20Naive%20Bayes)
   * [**11. Principal Component Analysis (PCA)**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/tree/main/14.%20Machine%20Learning/11.%20PCA)
