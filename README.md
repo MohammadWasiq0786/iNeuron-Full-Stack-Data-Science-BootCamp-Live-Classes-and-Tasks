@@ -267,75 +267,414 @@ Here I have uploaded the Live Classes Codes the Tasks
 
 ## 16. Computer Vision
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Introduction to Course
+* Course Overview
+* Installing Anaconda, Pycharm & Postman
+* Working with Conda Envs
+* Pycharm Introduction
+* Pycharm with Conda
+* Pycharm with venv
+* Pycharm with Pipenv
+
+### CNN Foundations
+* Why CNN? Building an Intution for CNN
+* CNN, Kernels, Channels, Feature Maps, Stride, Padding
+* Receptive Fields, Image Output Dimensationality Calculations, MNIST Dataset Explorations with CNN
+* MNIST CNN Intutiton, Tensorspace.js, CNN Explained, CIFAR 10 Dataset Explorations with CNN
+* Dropout & Custom Image Classification Dog Cat Dataset 
+* Deployment in Heroku, AWS, Azure
+
+### CNN Architectures
+* **LeNet-5**
+* LeNet-5 Practical
+* **AlexNet**
+* AlexNet Practical
+* **VGGNet**
+* VGG16 Practical
+* **Inception**
+* Inception Practical
+* **ResNet**
+* Resnet Practical
+
+### Data Augmentation
+* What is Data Augmentation?
+* Benefits of Data Augmentation
+* Exploring Papers like RICAP, Random Erasing, Cutout
+* Exploring Augmentor
+* Exploring Roboflow
+
+### bject Detection Basics
+* What is Object Detection?
+* Competitions for Object Detection
+* Bounding Boxes
+* Bounding Box Regression
+* Intersection over Union (IoU)
+* Precision & Recall
+* What is Average Precision?
+
+### Object Detection Architectures
+* Object Detection Family
+* **RCNN**
+* RCNN Network Architecture
+* Cons of RCNN
+* **FAST RCNN**
+* FAST RCNN Network Architecture
+* Cons of FAST RCNN
+* FASTER RCNN
+* FASTER RCNN Network Architecture
+* **YOLO**
+* YOLO Architecture
+* YOLO Limitations
+
+### Practicals Object Detection using Tensorflow 1.x
+* Introduction to TFOD1.x
+* Using Google Colab with Google Drive
+* Installation of Libraries in Colab
+* TFOD1.x Setup in Colab
+* Visiting the Model Zoo
+* Inferencing in Colab
+* Inferencing in Local
+* Important Configurations Files
+* Webcam Testing
+
+### Practicals Training a Custom Cards Detector using Tensorflow1.x
+* Custom Model Training in TFOD1.x
+* Our Custom Dataset
+* Doing Annotations or labeling data
+* Selection of Pretrained Model from Model Zoo
+* Files Setup for Training
+* Let's start Training in Colab
+* Export Frozen Inference Graph
+* Inferencing with our trained model in Colab
+* Training in Local
+* Inferencing with our trained model in Local
+
+### Practicals Creating an Cards Detector Web App with TFOD1
+* Code Understanding
+* WebApp Workflow
+* Code Understanding
+* Prediction with Postman
+* Debugging our Application
+
+### Practicals Object Detection using Tensorflow 2.x
+* Introduction to TFOD2.x
+* Using the Default Colab Notebook
+* Google Colab & Drive Setup
+* Visting TFOD2.x Model Garden
+* Inference using Pretrained Model
+* Inferencing in Local with a pretrained model
+
+### Practicals Training a Custom Chess Piece Detector using Tensorflow2
+* Custom Model training in TFOD2.x
+* Our Custom Dataset TF2
+* File Setup for Training
+* Let's start Training
+* Let's start Training
+* Stop Training or resume Training
+* Evaluating the trained model
+* Convert CKPT to Saved Model
+* Inferencing using the Custom Trained Model in Colab
+* Inferencing using the Custom Trained Model in Local PC
+
+### Practicals Creating an Chess Piece Detector Web App with TFOD2
+* Creating a Pycharm project & Environment Setup TF2
+* Application Workflow
+* Code understanding
+* Testing our App with Postman
+* Debugging our Application
+
+### Practicals Object Detection using Detectron2
+* Introduction to Detectron2
+* Detectron2 Colab Setup
+
+### Practicals Training a Custom Detector using Detectron2
+* Detectron2 Custom Training
+* Exploring the Dataset
+* Registering Dataset for Training
+* Let's start Training
+* Inferencing using the Custom Trained Model in Colab
+* Evaluating the Model
+
+### Practicals Creating an Custom Detector Web App with Detectron2
+* Creating a Pycharm project & Environment Setup Detectron2
+* Application Workflow
+* Code understanding
+* Testing our App with Postman
+* Debugging our Application
+
+### Practicals Object Detection using YoloV5
+* Introduction to YoloV5
+* YoloV5 Colab Setup
+* Inferencing using Pre Trained Model
+
+### Practicals Training a Custom Warehouse Apparel Detector using YoloV5
+* Custom Training with YoloV5
+* Exploring the Dataset
+* Doing Annotations or labeling data
+* Setting up Google Colab & Drive
+* Let's start Training
+* Inferencing using the Custom Trained Model in Colab
+
+###  Practicals Creating an Warehouse Apparel Detector Web App with YOLOV5
+* Creating a Pycharm project & Environment Setup Yolo
+* Application Workflow
+* Code understanding
+* Testing our App with Postman
+* Debugging our Application
+
+### Image Segmentation
+* Segmentation Introduction
+* From Bounding Box to Polygon Masks
+* What is Image Segmentation?
+* Types of Segmentation
+* MASKRCNN
+* MASK RCNN Architecture
+
+### MASK RCNN Practicals with TFOD
+* Segmentation with TFOD1.x
+* Local Setup MASKRCNN
+* Exploring the Dataset
+* Data Annotation
+* Model Selection
+* Files Setup for Training
+* Model Training
+* Export Frozen Inference Graph
+* Model Prediction
+
+### MASKRCNN practical with Detectron2
+* Introduction to Detectron2
+* Data Preparation
+* Setup for Training
+* Let's start Training
+* Inferencing using the Custom Trained Model in Colab
+* Evaluating the Model
+
+### Face Recognition Project
+* Introduction to Project
+* Requirement Gathering
+* Techstack Selection
+* Project Installation
+* Project Demo
+* Project Workflow
+* Core Components of the Application
+* Data Collection Module
+* Generate Face Embeddings
+* Training Face Recognition Module
+* Prediction Pipeline
+ Entry point of the Application
+* Application Workflow
+* Debugging our Application
+
+### Object Tracking Project
+* Object Tracking project
+* Project Installation Tracking
+* Project Demo
+* Code Understanding
+
+###  GANS
+* Introduction to GANS
+* GAN Architecture
+* GAN PRACTICALS Implementation
+
+### Fashion Apparel Detection
+* Introduction to Fashion Apparel Detection project
+* Requirement Gathering
+* Techstack Selection
+* Detailed Project Workflow
+* Data Collection
+* Data Preparation
+* Data Augmentation
+* Data Annotations
+
+### Image TO Text OCR
+* Introduction to Project
+* Project Installation OCR
+* Project Demo
+
+### Shredder System
+* Introduction to Shredder Systems
+* Requirement Gathering
+* Techstack Selection
+* Data Collection
+* Data Augmentation
+* Data Preparation
+* Data Annotation
+* Model Selection from Zoo
+* Model Training
+
+### Automatic Number plate Recognition with TFOD1.x
+* Introduction to ANPR Project
+* Requirement Gathering
+* Tech Stack Selection
+* Data Collection
+* Data Augmentation
+* Data Preparation
+* Data Annotation
+
+## 16. Natural Language Processing
+
+### NLP Overview
+* NLP Overview
+* NLP very basic
+
+### NLP Word Embeddings
+* TFIDF
+* Word Embeddings Part-1
+* Word Embeddings Part-2
+
+### NLP RNN
+* RNN Basic
+* RNN Implementation
+
+### NLP Project:- Text to Speech
+* Introduction
+* Project Setup Text to Speech
+* Project Demo
+
+###  Speech To Text
+* Introduction
+* Project Setup Speech To Text
+* Project Demo
+
+### Spell Corrector
+* Introduction
+* Project Setup Spell Corrector
+* Project Demo
+
+## 17. Big Data
+
+### Introduction to Distributed Systems Hadoop and MapReduce 
+* Big Data Engineering Introduction
+
+### Hive
+* Apache Hive
+
+### NoSQL and Hbase
+* Big Data HBase
+* Hbase hands On
+
+### Spark
+* Spark - Introduction
+* Big Data Engineering using PySpark- RDDs
+* Spark hands on - RDD
+* Big Data Engineering using PySpark- Shared Vars , Coalesce Repartition
+* Spark hands on - Dataframe
+
+### Spark ML
+* Big Data Engineering using PySpark- MLLib
+* Spark hands On - Spark ML Lib
+
+### Spark Streaming
+* Big Data Engineering using PySpark- Streaming Part 1
+* Big Data Engineering using PySpark- Streaming Part 2
+* Spark hands On - Spark Streaming
+
+###  Kafka
+* Big Data Kafka
+* Big Data Kafka Hands on 
+
+## 18. Power BI
+
+### Basic Charts in Power BI
+* Basic Charts in Power BI Desktop
+* Column Chart in Power BI
+* Stacked Column Chart in Power BI
+* Pie Chart in Power BI
+
+### Working with Maps
+* Creating a Map in Power BI
+* Filled Map
+* Map with Pie Chart
+* Formatting in Map
+
+### Tables and Matrix in Power BI
+* Table and Matrix in Power BI
+* Creating a Table in Power BI
+* Formatting a Table
+
+## 19. Tableau
+
+### Introduction to tableau
+* Tableau Introduction
+* Download and Install Tableau
+* Tableau Vs Excel
+
+## 20. SQL
+* Database Architecture
+* Introduction to SQL
+* Constraints
+* Joins
+* Import Export
+* Aggregate Functions
+* Order by, Having & Limit Clause
+* String Functions
+* Datetime functions
+* Nested Queries
+* Views
+
+## 21. Excel
+* Introduction to Excel
+* Pre-defined functions
+* Datetime Funtions
+* String functions
+* Mathematical functions
+* Lookup
+
+## 22. Chatbot - Google Dialog Flow
+* What is Chatbot?
+* Why Chatbot?
+* Types of Chatbot
+* Use of Chatbot
+* Examples of chatbot
+* Dialogflow - Inline editor
+* Create Intent and Entities
+* Food order Intent
+
+## 23. Interview Preparation
+
+### Interview Questions Discussion
+* Interview Question Discussion
+* Resume Discussion
+
+## 24. Interview Preparation 
+
+### Project Discussion
+* Vision-Based Attendance System
+
+## 25. Interview Preparation 
+
+### Interview Questions Discussions
+* Interview Question Discussion - 1
+
+### Interview Preparation - General Discussion
+* Discussion Session - 1
+* Discussion Session - 2
+
+
+# Educator
+
+## Instructor
+### Sudhanshu Kumar
+Having 8+ years of experience in Big data, Data Science and Analytics with product architecture design and delivery. Worked in various product and service based Company. Having an experience of 5+ years in educating people and helping them to make a career transition..
+
+[**linkedIn**](https://www.linkedin.com/in/-sudhanshu-kumar/)
+
+### Krish Naik
+Having 10+ years of experience in Data Science and Analytics with product architecture design and delivery. Worked in various product and service based Company. Having an experience of 5+ years in educating people and helping them to make a career transition.
+
+[**LinkedIn**](https://www.linkedin.com/in/naikkrish/)
+
+### Sunny Savita
+
+[**LinkedIn**](https://www.linkedin.com/in/sunny-savita/)
+
+## Sourangshu Pal
+[**LinkedIn**](https://www.linkedin.com/in/sourangshu-pal-0774b212a/)
+
+## Boktiar Ahmed Bappy
+[**LinkedIn**](https://www.linkedin.com/in/boktiarahmed73/)
+
+### Sunny Bhaveen Chandra
+Sr. Data Scientist and lecturer at iNeuron.ai with working experience in computer vision, natural language processing and embedded systems. Hands-on experience leveraging machine learning, deep learning, transfer learning models to solve challenging business problems. Also, he has a vast interest in Robotics.
+
+[**LinkedIn**](https://www.linkedin.com/in/c17hawke/)
