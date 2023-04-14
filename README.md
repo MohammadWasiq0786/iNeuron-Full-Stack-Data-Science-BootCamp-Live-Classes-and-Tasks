@@ -173,17 +173,99 @@ Here I have uploaded the Live Classes Codes the Tasks
 * Hypothesis testing part 3
 * Finalizing Statistics
 
-##
+## 13. Introduction to Machine learning
+* Linear Regression
+* Lasso Regression 
+* Ridge Regression 
+* Elastic Net Regression
+* Logistic Regression
+* Decision Tree (Regression)
+* Decision Tree (Classification) 
+* Ensemble Technique 
+* Random Forest (Regression)
+* Random Forest (Classification) 
+* Boosting
+* XG Boost
+* K-Nearest Neighbour (KNN)
+* Support Vector Machine (Regression)
+* Support Vector Machine (Classification)
+* Bagging Classifier
+* Stacking
+* Clustering
+* PCA
+* DBSCAN 
+* Naive Bayes
 
+## 14. Time Series
+* Arima, Sarima, Auto Arima
+* Time Series using RNN LSTM, Prediction of NIFTY Stock Price
 
+## 15. Deep Learning
+* Introduction to Deep Learning
+* Importance of Deep learning
+* Why you should study Deep Learning? (Motivation)
 
+### DL ANN - Introduction
+* ANN vs BNN
+* The first Artificial Neuron
 
+### DL ANN - Perceptron
+* Overview of Perceptron
+* More about Perceptron
+* Perceptron implementation using python - 1
+* Perceptron implementation using python - 2
+* Perceptron implementation using python - 3
+* Perceptron implementation using python - 4
+* Perceptron implementation using python - 5
+* Perceptron implementation using python - 6
+* Perceptron implementation using python - 7
+* Python scripting & modular coding for Perceptron
+* Python logging basics and docstrings
 
+### DL ANN -1
+* Multilayer Perceptron
+* Forward propagation
+* Why we need Activation function?
+* ANN implementation using tf.keras - 1
+* ANN implementation using tf.keras - 2
+* ANN implementation using tf.keras - 3
+* ANN implementation using tf.keras - 4
+* ANN with Callbacks | Tensorboard | Early Stopping | Model Checkpointing
 
+### DL ANN - 2
+* Vector
+* Differentiation
+* Partial Differentiation
+* Maxima and Minima Concept
+* Gradient Descent Basics
+* In-depth understanding of Gradient descent with mathematical proof
 
+### DL ANN - 3
+* Chain Rule
+* Back Propagation
 
+## DL ANN - 4
+* General problems in training Neural Networks
+* Vanishing and Exploding gradients
+* Activation Function Basics
+* Weight initialization
+* Activation Functions - 1
+* Activation functions - 2
+* Activation functions - 3
+* Transfer learning
+* Batch normalization -1
+* Batch normalization -2
+* Batch normalization -3
 
+### DL ANN - 5
+* Introduction to fast optimizers
+* Momentum optimization
+* NAG
+* Loss functions
+* Regularization
+* Dropout
 
+## 16. Computer Vision
 
 
 
