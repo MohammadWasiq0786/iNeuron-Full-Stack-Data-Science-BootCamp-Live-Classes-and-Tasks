@@ -46,5 +46,214 @@ Here I have uploaded the Live Classes Codes the Tasks
 ![Cerificate](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Live-Classes-and-Tasks/blob/main/Certificate/iNeuron%20FSDS%20BootCamp%20Completion%20Certificate.png)
 
 
+# Course Features
+* **Full stack Data Science master’s certification**
+* **Job guarantee otherwise refund**
+* **One year of internship Anytime**
+* **1:1 Personalized Mentorship**
+* **Revision Classes**
+* **Online Instructor-led learning: Live teaching by instructors**
+* **56 + hands-on industry real-time projects**
+* **500 hours live interactive classes**
+* **Every week doubt clearing session after the live classes**
+* **Lifetime Dashboard access**
+* **Doubt clearing one to one**
+* **Doubt clearing through mail and skype support team**
+* **Assignment in all the module**
+* **A live project with real-time implementation**
+* **Resume building Anytime**
+* **Career guidance Anytime**
+* **Interview Preparation Anytime**
+* **Regular assessment**
+* **Job Fair and Internal Hiring**
+* **Mock Interview Anytime**
+
+# Subjects
+### 1. Python
+### 2. Statistics
+### 3. Machine Learning
+### 4. Deep Learning
+### 5. Computer Vision
+### 6. Natural Language Processing
+### 7. Data Analytics
+### 8. Big Data
+### 9. MLOPs
+### 10. Cloud 
+### 11. Architecture
+### 12. Domain wise Project
+### 13. Databases
+### 14. Negotiations Skills
+### 15. Mock Interview
+### 16. Interview Preparation
+### 17. Resume Building After Every Module
+### 18. Industry Grade Projects
+
+# Course Curriculum
+
+## 1. Python Basics
+* Python Introduction, Installation and Setup
+* Python Basics & Conditionals
+* Conditionals & Loops
+* Working with Loops
+* Working with Strings & Lists
+* List manipulation
+* Tuple, Set & Dictionary
+* Working with Functions
+* Functions, Generators & File Handling
+* Logging and Debugging
+* Modules and Exception
+
+## 2. OOPS
+* OOPs, Classes & Objects
+* OOPS, Abstraction & Inheritance
+* Inheritance, Polymorphism & Intro to Databases
+
+## 3. Databases
+* Working with SQL & Python
+* SQL Continued, MongoDB Installation & Working with MongoDB
+
+## 4. Pandas
+* Introduction to Pandas
+* Pandas Basics
+* Pandas Data Manipulation
+* Working with Pandas
+
+## 5. Numpy
+* Introduction to Numpy
+
+## 6. Matplotlib
+* Working with Pandas & Matplotlib
+
+## 7. Plotly
+* Working with Plotly
+
+## 8. Seaborn
+* Working with Seaborn
+
+## 9. EDA
+* Expolartory Data Analysis
+
+## 10. Web Frameworks
+* Rest API, Flask & Working with Postman
+* Working with Flask & Debugging Calculator Application
+
+## 11. Python Projects with Deployment
+* Project Discussion Review Scraper with Deployment on Heroku, AWS and Azure
+* Project Discussion Advance Review Scraper
+
+## 12. Statistics
+* Different types of Statistics
+* Population vs Sample
+* Mean, Median and Mode
+* Variance, Standard Deviation
+* Sample Variance why n-1
+* Standard Deviation
+* Variables
+* Random Variables
+* Percentiles & Quartiles
+* 5 Number Summary
+* Histograms
+* Gaussian - Normal Distribution
+* Standard Normal Distribution
+* Application Of Z-Score
+* Basics Of Probability
+* Addition Rule In Probability
+* Multiplication Rule in Probability
+* Permutation
+* Combination
+* Log Normal Distribution
+* Central Limit Theorem
+* Statistics - Left Skewed And Right Skewed Distribution And Relation With Mean, Median And Mode
+* Covariance
+* Pearson And Spearman Rank Correlation
+* What is P Value
+* What is Confidence Intervals
+* How To Perform Hypothesis Testing - Confidence IntervalZ Test Statistics Derive Conclusion
+* Hypothesis testing part 2
+* Hypothesis testing part 3
+* Finalizing Statistics
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
